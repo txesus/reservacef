@@ -1,6 +1,6 @@
 const { defineConfig } = require('@vue/cli-service')
 module.exports = defineConfig({
-  publicPath: "/reservacef/",
+  publicPath: "/reservacef",
   transpileDependencies: true,
   pluginOptions: {
     vuetify: {
